@@ -1,5 +1,5 @@
 # 5G security related links
-## 3GPP (3rd Generation Partnership Project)
+## 3GPP (The 3rd Generation Partnership Project)
 * [3GPP 5G Security](http://www.3gpp.org/news-events/3gpp-news/1975-sec_5g?from=timeline)
 * [Security architecture and procedures for 5G system](https://www.3gpp.org/DynaReport/33501.htm)
 * [5G SCAS for the Security Edge Protection Proxy (SEPP) network product class](https://www.3gpp.org/DynaReport/33517.htm)
@@ -11,7 +11,7 @@
 * [Authentication and Key Management for Applications (AKMA) based on 3GPP credentials in the
 5G System (5GS)](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3690)
 
-## ENISA (European Network and Information Security Agency)
+## ENISA (The European Network and Information Security Agency)
 * [Security in 5G Specifications - Controls in 3GPP](https://www.enisa.europa.eu/publications/security-in-5g-specifications)
 * [ENISA Threat Landscape for 5G Networks Report](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-for-5g-networks)
 * [5G Supplement - to the Guideline on Security Measures under the EECC](https://www.enisa.europa.eu/publications/5g-supplement-security-measures-under-eecc)
@@ -48,3 +48,4 @@
 * [Nokia - 5G Security Risks and Mitigation Measures](https://www.nokia.com/sites/default/files/2021-05/Whitepaper-5G-security-Nokia-STC-March-31-2021.pdf)
 * [Samsung - 5G Security — Improving User and Data Protection](https://images.samsung.com/is/content/samsung/p5/global/business/networks/insights/white-papers/5g-security-improving-user-and-data-protection/Samsung-5G-Security-Brief_FINAL.pdf)
 * [5G Americas - Security for 5G Whitepaper](https://www.5gamericas.org/wp-content/uploads/2021/12/Security-in-5G.pdf)
+* [5G Security Test Bed](https://5gsecuritytestbed.com/)
