@@ -7,6 +7,7 @@
 ## ENISA
 * [Security in 5G Specifications - Controls in 3GPP](https://www.enisa.europa.eu/publications/security-in-5g-specifications)
 * [ENISA Threat Landscape for 5G Networks Report](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-for-5g-networks)
+* [5G Supplement - to the Guideline on Security Measures under the EECC](https://www.enisa.europa.eu/publications/5g-supplement-security-measures-under-eecc)
 
 ## The European Telecommunications Standards Institute (ETSI)
 * [System architecture specification for execution of sensitive NFV components](https://www.etsi.org/deliver/etsi_gs/nfv-sec/001_099/012/03.01.01_60/gs_nfv-sec012v030101p.pdf)
@@ -25,8 +26,8 @@
 * [Potential Threat Vectors to 5G Infrastructure](https://media.defense.gov/2021/May/10/2002637751/-1/-1/0/POTENTIAL%20THREAT%20VECTORS%20TO%205G%20INFRASTRUCTURE.PDF)
 * [Security Guidance for 5G Cloud Infrastructures - Part I: Prevent and Detect Lateral Movement](https://media.defense.gov/2021/Oct/28/2002881720/-1/-1/0/SECURITY_GUIDANCE_FOR_5G_CLOUD_INFRASTRUCTURES_PART_I_20211028.PDF)
 * [Security Guidance for 5G Cloud Infrastructures - Part II: Securely Isolate Network Resources](https://media.defense.gov/2021/Nov/18/2002895143/-1/-1/0/SECURITY_GUIDANCE_FOR_5G_CLOUD_INFRASTRUCTURES_PART_II_20211118.PDF)
-* [Security Guidance for 5G Cloud Infrastructure - Part III: Data Protection](https://www.cisa.gov/sites/default/files/publications/Security_Guidance_For_5G_Cloud_Infrastructures_Part_III_508_Compliant.pdf)
-* [Security Guidance for 5G Cloud Infrastructure - Part IV: Ensure Integrity of Cloud Infrastructure](https://media.defense.gov/2021/Dec/16/2002910260/-1/-1/1/SECURITY_GUIDANCE_FOR_5G_CLOUD_INFRASTRUCTURES_PART_IV_20211216.PDF)
+* [Security Guidance for 5G Cloud Infrastructures - Part III: Data Protection](https://www.cisa.gov/sites/default/files/publications/Security_Guidance_For_5G_Cloud_Infrastructures_Part_III_508_Compliant.pdf)
+* [Security Guidance for 5G Cloud Infrastructures - Part IV: Ensure Integrity of Cloud Infrastructure](https://media.defense.gov/2021/Dec/16/2002910260/-1/-1/1/SECURITY_GUIDANCE_FOR_5G_CLOUD_INFRASTRUCTURES_PART_IV_20211216.PDF)
 
 ## 5G Network Slicing Security
 * [5G Network Slicing: A Security Overview - IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9099823)
