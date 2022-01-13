@@ -1,8 +1,15 @@
 # 5G security related links
 ## 3GPP (3rd Generation Partnership Project)
+* [3GPP 5G Security](http://www.3gpp.org/news-events/3gpp-news/1975-sec_5g?from=timeline)
 * [Security architecture and procedures for 5G system](https://www.3gpp.org/DynaReport/33501.htm)
 * [5G SCAS for the Security Edge Protection Proxy (SEPP) network product class](https://www.3gpp.org/DynaReport/33517.htm)
 * [Study on security aspects of enhancement of support for edge computing in 5GC](https://www.3gpp.org/DynaReport/33839.htm)
+* [Study on enhanced security aspects of the 5G Service Based Architecture (eSBA)](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3845)
+* [Study on evolution of Cellular Internet of Things (CIoT) security for the 5G System](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3480)
+* [Study on the security of Ultra-Reliable Low-Latency Communication (URLLC) for the 5G System
+(5GS)](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3548)
+* [Authentication and Key Management for Applications (AKMA) based on 3GPP credentials in the
+5G System (5GS)](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3690)
 
 ## ENISA
 * [Security in 5G Specifications - Controls in 3GPP](https://www.enisa.europa.eu/publications/security-in-5g-specifications)
@@ -21,6 +28,7 @@
 
 ## GSMA
 * [Network Equipment Security Assurance Scheme (NESAS)](https://www.gsma.com/security/network-equipment-security-assurance-scheme/)
+* [GSMA 5G Cybersecurity Knowledge Base](https://www.gsma.com/security/5g-cybersecurity-knowledge-base/)
 
 ## NSA
 * [Potential Threat Vectors to 5G Infrastructure](https://media.defense.gov/2021/May/10/2002637751/-1/-1/0/POTENTIAL%20THREAT%20VECTORS%20TO%205G%20INFRASTRUCTURE.PDF)
@@ -32,9 +40,11 @@
 ## 5G Network Slicing Security
 * [5G Network Slicing: A Security Overview - IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9099823)
 
-## Ericsson
-* [5G security - enabling a trustworthy 5G system](https://www.ericsson.com/en/reports-and-papers/white-papers/5g-security---enabling-a-trustworthy-5g-system)
-* [Security in 5G RAN and core deployments](https://www.ericsson.com/en/reports-and-papers/white-papers/security-in-5g-ran-and-core-deployments)
-
-## 5G Americas
-* [Security for 5G Whitepaper](https://www.5gamericas.org/wp-content/uploads/2021/12/Security-in-5G.pdf)
+## Other links
+* [Ericsson - 5G security - enabling a trustworthy 5G system](https://www.ericsson.com/en/reports-and-papers/white-papers/5g-security---enabling-a-trustworthy-5g-system)
+* [Ericsson - Security in 5G RAN and core deployments](https://www.ericsson.com/en/reports-and-papers/white-papers/security-in-5g-ran-and-core-deployments)
+* [Ericsson - A guide to 5G network security 2.0](https://www.ericsson.com/4a66f8/assets/local/news/2021/09172021-a-guide-to-5g-network-security-2.0.pdf) 
+* [Nokia - 5G Security Risks and Mitigation Measures](https://www.nokia.com/sites/default/files/2021-05/Whitepaper-5G-security-Nokia-STC-March-31-2021.pdf)
+* [Samsung - 5G Security — Improving User and Data Protection](https://images.samsung.com/is/content/samsung/p5/global/business/networks/insights/white-papers/5g-security-improving-user-and-data-protection/Samsung-5G-Security-Brief_FINAL.pdf)
+* [Huawei - 5G Security White Paper](https://www.huawei.com/en/trust-center/5g-cyber-security)
+* [5G Americas - Security for 5G Whitepaper](https://www.5gamericas.org/wp-content/uploads/2021/12/Security-in-5G.pdf)
