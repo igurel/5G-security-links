@@ -23,8 +23,7 @@
 * [The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749)
 * [Extensible Authentication Protocol (EAP)](https://datatracker.ietf.org/doc/html/rfc7057)
 * [Hypertext Transfer Protocol Version 2 (HTTP/2)](https://datatracker.ietf.org/doc/html/rfc7540)
-* [TLS 1.2](https://datatracker.ietf.org/doc/html/rfc5246)
-* [TLS 1.3](https://datatracker.ietf.org/doc/html/rfc8446)
+* [TLS 1.2](https://datatracker.ietf.org/doc/html/rfc5246) | [TLS 1.3](https://datatracker.ietf.org/doc/html/rfc8446)
 
 ## GSMA
 * [Network Equipment Security Assurance Scheme (NESAS)](https://www.gsma.com/security/network-equipment-security-assurance-scheme/)
@@ -37,14 +36,15 @@
 * [Security Guidance for 5G Cloud Infrastructures - Part III: Data Protection](https://www.cisa.gov/sites/default/files/publications/Security_Guidance_For_5G_Cloud_Infrastructures_Part_III_508_Compliant.pdf)
 * [Security Guidance for 5G Cloud Infrastructures - Part IV: Ensure Integrity of Cloud Infrastructure](https://media.defense.gov/2021/Dec/16/2002910260/-1/-1/1/SECURITY_GUIDANCE_FOR_5G_CLOUD_INFRASTRUCTURES_PART_IV_20211216.PDF)
 
-## 5G Network Slicing Security
+# 5G Network Slicing Security
 * [5G Network Slicing: A Security Overview - IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9099823)
 
 ## Other links
 * [Ericsson - 5G security - enabling a trustworthy 5G system](https://www.ericsson.com/en/reports-and-papers/white-papers/5g-security---enabling-a-trustworthy-5g-system)
 * [Ericsson - Security in 5G RAN and core deployments](https://www.ericsson.com/en/reports-and-papers/white-papers/security-in-5g-ran-and-core-deployments)
 * [Ericsson - A guide to 5G network security 2.0](https://www.ericsson.com/4a66f8/assets/local/news/2021/09172021-a-guide-to-5g-network-security-2.0.pdf) 
+* [Huawei - 5G Security White Paper](https://www.huawei.com/en/trust-center/5g-cyber-security)
+* [NIST - 5G Cybersecurity: Preparing a Secure Evolution to 5G](https://www.nccoe.nist.gov/sites/default/files/legacy-files/5G-pse-project-description-final.pdf)
 * [Nokia - 5G Security Risks and Mitigation Measures](https://www.nokia.com/sites/default/files/2021-05/Whitepaper-5G-security-Nokia-STC-March-31-2021.pdf)
 * [Samsung - 5G Security — Improving User and Data Protection](https://images.samsung.com/is/content/samsung/p5/global/business/networks/insights/white-papers/5g-security-improving-user-and-data-protection/Samsung-5G-Security-Brief_FINAL.pdf)
-* [Huawei - 5G Security White Paper](https://www.huawei.com/en/trust-center/5g-cyber-security)
 * [5G Americas - Security for 5G Whitepaper](https://www.5gamericas.org/wp-content/uploads/2021/12/Security-in-5G.pdf)
