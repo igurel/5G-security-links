@@ -49,3 +49,4 @@
 * [Samsung - 5G Security — Improving User and Data Protection](https://images.samsung.com/is/content/samsung/p5/global/business/networks/insights/white-papers/5g-security-improving-user-and-data-protection/Samsung-5G-Security-Brief_FINAL.pdf)
 * [5G Americas - Security for 5G Whitepaper](https://www.5gamericas.org/wp-content/uploads/2021/12/Security-in-5G.pdf)
 * [5G Security Test Bed](https://5gsecuritytestbed.com/)
+* [Model Checking 5G Security - Real World Crypto 2020](https://rwc.iacr.org/2020/slides/Basin.pdf)
