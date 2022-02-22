@@ -40,6 +40,7 @@
 * [5G Network Slicing: A Security Overview - IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9099823)
 
 ## Other links
+* [BSI - Open RAN Risk Analysis](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Studies/5G/5GRAN-Risk-Analysis.pdf)
 * [Ericsson - 5G security - enabling a trustworthy 5G system](https://www.ericsson.com/en/reports-and-papers/white-papers/5g-security---enabling-a-trustworthy-5g-system)
 * [Ericsson - Security in 5G RAN and core deployments](https://www.ericsson.com/en/reports-and-papers/white-papers/security-in-5g-ran-and-core-deployments)
 * [Ericsson - A guide to 5G network security 2.0](https://www.ericsson.com/4a66f8/assets/local/news/2021/09172021-a-guide-to-5g-network-security-2.0.pdf) 
