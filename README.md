@@ -15,6 +15,7 @@
 * [ENISA Threat Landscape for 5G Networks Report](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-for-5g-networks)
 * [NFV Security in 5G - Challenges and Best Practices](https://www.enisa.europa.eu/publications/nfv-security-in-5g-challenges-and-best-practices)
 * [Security in 5G Specifications - Controls in 3GPP](https://www.enisa.europa.eu/publications/security-in-5g-specifications)
+* [5G Cybersecurity Standards](https://www.enisa.europa.eu/publications/5g-cybersecurity-standards)
 * [5G Supplement - to the Guideline on Security Measures under the EECC](https://www.enisa.europa.eu/publications/5g-supplement-security-measures-under-eecc)
 
 ## ETSI (The European Telecommunications Standards Institute)
