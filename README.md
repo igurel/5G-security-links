@@ -41,6 +41,10 @@
 ## 5G Network Slicing Security
 * [5G Network Slicing: A Security Overview - IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9099823)
 
+## 5G Americas
+* [Security for 5G Whitepaper](https://www.5gamericas.org/wp-content/uploads/2021/12/Security-in-5G.pdf)
+* [Evolving 5G Security for the Cloud](https://www.5gamericas.org/wp-content/uploads/2022/09/Evolving-5G-Security-for-the-Cloud-2022-InDesign.pdf)
+
 ## The Research Articles
 * [AI for Beyond 5G Networks: A Cyber-Security Defense or Offense Enabler?, C. Benzaid et al](https://arxiv.org/abs/2201.02730)
 
@@ -53,6 +57,5 @@
 * [NIST - 5G Cybersecurity: Preparing a Secure Evolution to 5G](https://www.nccoe.nist.gov/sites/default/files/legacy-files/5G-pse-project-description-final.pdf)
 * [Nokia - 5G Security Risks and Mitigation Measures](https://www.nokia.com/sites/default/files/2021-05/Whitepaper-5G-security-Nokia-STC-March-31-2021.pdf)
 * [Samsung - 5G Security — Improving User and Data Protection](https://images.samsung.com/is/content/samsung/p5/global/business/networks/insights/white-papers/5g-security-improving-user-and-data-protection/Samsung-5G-Security-Brief_FINAL.pdf)
-* [5G Americas - Security for 5G Whitepaper](https://www.5gamericas.org/wp-content/uploads/2021/12/Security-in-5G.pdf)
 * [5G Security Test Bed](https://5gsecuritytestbed.com/)
 * [Model Checking 5G Security - Real World Crypto 2020](https://rwc.iacr.org/2020/slides/Basin.pdf)
