@@ -50,9 +50,10 @@
 
 ## Other Links
 * [BSI - Open RAN Risk Analysis](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Studies/5G/5GRAN-Risk-Analysis.pdf)
+* [Ericsson - 5G Release 17: Overview of new RAN security features](https://www.ericsson.com/en/blog/2022/10/3gpp-release-17-security-ran)
 * [Ericsson - 5G security - enabling a trustworthy 5G system](https://www.ericsson.com/en/reports-and-papers/white-papers/5g-security---enabling-a-trustworthy-5g-system)
 * [Ericsson - Security in 5G RAN and core deployments](https://www.ericsson.com/en/reports-and-papers/white-papers/security-in-5g-ran-and-core-deployments)
-* [Ericsson - A guide to 5G network security 2.0](https://www.ericsson.com/4a66f8/assets/local/news/2021/09172021-a-guide-to-5g-network-security-2.0.pdf) 
+* [Ericsson - A guide to 5G network security 2.0](https://www.ericsson.com/4a66f8/assets/local/news/2021/09172021-a-guide-to-5g-network-security-2.0.pdf)
 * [Huawei - 5G Security White Paper](https://www.huawei.com/en/trust-center/5g-cyber-security)
 * [NIST - 5G Cybersecurity: Preparing a Secure Evolution to 5G](https://www.nccoe.nist.gov/sites/default/files/legacy-files/5G-pse-project-description-final.pdf)
 * [Nokia - 5G Security Risks and Mitigation Measures](https://www.nokia.com/sites/default/files/2021-05/Whitepaper-5G-security-Nokia-STC-March-31-2021.pdf)
