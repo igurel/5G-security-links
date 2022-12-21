@@ -32,6 +32,8 @@
 * [GSMA 5G Cybersecurity Knowledge Base](https://www.gsma.com/security/5g-cybersecurity-knowledge-base/)
 
 ## NSA (The National Security Agency)
+* [ESF: Potential Threats to 5G Network Slicing](https://media.defense.gov/2022/Dec/13/2003132073/-1/-1/1/POTENTIAL%20THREATS%20TO%205G%20NETWORK%20SLICING_508C_FINAL.PDF)
+* [Open Radio Access Network Security Considerations](https://media.defense.gov/2022/Sep/15/2003077576/-1/-1/0/ESF_OPEN_RADIO_ACCESS_NETWORK_SECURITY_CONSIDERATIONS.PDF)
 * [Potential Threat Vectors to 5G Infrastructure](https://media.defense.gov/2021/May/10/2002637751/-1/-1/0/POTENTIAL%20THREAT%20VECTORS%20TO%205G%20INFRASTRUCTURE.PDF)
 * [Security Guidance for 5G Cloud Infrastructures - Part I: Prevent and Detect Lateral Movement](https://media.defense.gov/2021/Oct/28/2002881720/-1/-1/0/SECURITY_GUIDANCE_FOR_5G_CLOUD_INFRASTRUCTURES_PART_I_20211028.PDF)
 * [Security Guidance for 5G Cloud Infrastructures - Part II: Securely Isolate Network Resources](https://media.defense.gov/2021/Nov/18/2002895143/-1/-1/0/SECURITY_GUIDANCE_FOR_5G_CLOUD_INFRASTRUCTURES_PART_II_20211118.PDF)
